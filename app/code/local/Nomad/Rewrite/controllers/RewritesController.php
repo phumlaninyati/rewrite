@@ -6,7 +6,7 @@ class Nomad_Rewrite_RewritesController extends Mage_Adminhtml_Controller_Action
     public function indexAction()
     {
         
-        $this->_title($this->__('Sales'))->_title($this->__('Orders Inchoo'));
+        $this->_title($this->__('Catalog'))->_title($this->__('Url Rewrites'));
     	// "Fetch" display
         $this->loadLayout();
         
