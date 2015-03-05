@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Nomad_Rewrite>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Nomad_Rewrite>
+    </modules>
+</config>
