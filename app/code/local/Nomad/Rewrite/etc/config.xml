@@ -14,10 +14,13 @@
                 <class>Nomad_Rewrite_Helper</class>
             </Rewrite>  
         </helpers>
+        <blocks>
+            <nomad_rewrite>
+                <class>Nomad_Rewrite_Block</class>
+            </nomad_rewrite>
+        </blocks>
 </global>        
-    
-    
-        <admin>
+ <admin>
         <routers>
             <rewrite>
                 <use>admin</use>
@@ -26,42 +29,23 @@
                     <frontName>rewrite</frontName>
                 </args>
             </rewrite>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <nomad_rewrite after="Mage_Adminhtml">Nomad_Rewrite_Adminhtml</nomad_rewrite>
+                    </modules>
+                </args>
+            </adminhtml>
         </routers>
     </admin>
-    
- 
-    
-    
     <adminhtml>
-        <menu>
-            <catalog translate="title" module="catalog">
-                <title>Catalog</title>
-                <sort_order>60</sort_order>
-                <children>
-                    <rewrite module="Rewrite">
-                        <title>URL Rewrites</title>
-                        <action>rewrite/rewrites</action>
-                    </rewrite>
-                </children>                
-            </catalog>
-        </menu>
-        <acl>
-            <resources>
-                <admin>
-                    <children>
-                        <rewrite translate="title" module="Rewrite">
-                            <title>Nomad Rewrite</title>
-                            <sort_order>60</sort_order>
-                            <children>
-                                <rewrite>
-                                    <title>URL Rewrites</title>
-                                </rewrite>
-                            </children>
-                       </rewrite>
-                   </children>
-               </admin>
-           </resources>
-        </acl>
+        <layout>
+            <updates>
+                <nomad>
+                    <file>rewrite.xml</file>
+                </nomad>
+            </updates>
+        </layout>
     </adminhtml>    
     
 </config>

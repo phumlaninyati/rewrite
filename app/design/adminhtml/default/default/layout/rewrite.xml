@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout>
+    <nomad_rewrite_index>
+        <update handle="nomad_rewrite_index"/>
+        <reference name="content">
+            <block type="adminhtml/template" name="nomad" template="nomad/rewrite.phtml"/>
+        </reference>
+    </nomad_rewrite_index>
+</layout>

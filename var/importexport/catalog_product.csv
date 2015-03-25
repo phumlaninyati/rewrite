@@ -1,0 +1,343 @@
+sku,_store,_attribute_set,_type,_category,_root_category,_product_websites,cb_color,cb_size,cc_color,cc_size,color,cost,country_of_manufacture,created_at,custom_design,custom_design_from,custom_design_to,custom_layout_update,description,enable_googlecheckout,gallery,gift_message_available,has_options,image,image_label,l_color,l_size,manufacturer,media_gallery,meta_description,meta_keyword,meta_title,minimal_price,msrp,msrp_display_actual_price_type,msrp_enabled,name,news_from_date,news_to_date,ob_size,options_container,page_layout,price,required_options,short_description,small_image,small_image_label,special_from_date,special_price,special_to_date,status,tax_class_id,thumbnail,thumbnail_label,updated_at,url_key,url_path,visibility,weight,qty,min_qty,use_config_min_qty,is_qty_decimal,backorders,use_config_backorders,min_sale_qty,use_config_min_sale_qty,max_sale_qty,use_config_max_sale_qty,is_in_stock,notify_stock_qty,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,stock_status_changed_auto,use_config_qty_increments,qty_increments,use_config_enable_qty_inc,enable_qty_increments,is_decimal_divided,_links_related_sku,_links_related_position,_links_crosssell_sku,_links_crosssell_position,_links_upsell_sku,_links_upsell_position,_associated_sku,_associated_default_qty,_associated_position,_tier_price_website,_tier_price_customer_group,_tier_price_qty,_tier_price_price,_group_price_website,_group_price_customer_group,_group_price_price,_media_attribute_id,_media_image,_media_lable,_media_position,_media_is_disabled,_super_products_sku,_super_attribute_code,_super_attribute_option,_super_attribute_price_corr
+CB,,"Crate Bed",configurable,,"Axels Products",base,,,,,,,"South Africa","2014-10-14 21:49:20",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>720</td><td>500</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>760</td><td>620</td><td>100</td></tr>
+<tr><td><h5>Large</h5></td><td>900</td><td>700</td><td>100</td></tr>
+<tr class=""alt""><td><h5>X-Large</h5></td><td>1000</td><td>800</td><td>100</td></tr>
+<tr><td><h5>XX-Large</h5></td><td>1100</td><td>900</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Giant</h5></td><td>1200</td><td>1000</td><td>100</td></tr>
+</tbody>
+</table></div>",,,,1,/c/r/crate_bed_standard_all_colours_1.jpg,,,,,,,,,,,"Use config","Use config","Crate Bed",,,,"Product Info Column",,300.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/c/r/crate_bed_standard_all_colours_1.jpg,,,,,1,0,/c/r/crate_bed_standard_all_colours_1.jpg,,"2014-11-09 11:53:51",crate-bed-standard,crate-bed-standard.html,4,,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,CBC-PVC,0,,,CB-P,0,,,,,,,,,,,88,/c/r/crate_bed_standard_all_colours_1.jpg,,1,0,CB-S-BL,cb_size,S,
+,,,,"Dog Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-S-OL,cb_size,S,
+,,,,"Dog Beds/Crate Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-S-MA,cb_size,S,
+,,,,"Dog Beds/Crate Beds/Standard","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-M-BL,cb_size,M,70.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-M-OL,cb_size,M,70.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-M-MA,cb_size,M,70.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-L-BL,cb_size,L,160.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-L-OL,cb_size,L,160.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-L-MA,cb_size,L,160.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XL-BL,cb_size,XL,270.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XL-OL,cb_size,XL,270.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XL-MA,cb_size,XL,270.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XXL-BL,cb_size,XXL,380.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XXL-OL,cb_size,XXL,380.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XXL-MA,cb_size,XXL,380.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-G-BL,cb_size,G,460.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-G-OL,cb_size,G,460.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-G-MA,cb_size,G,460.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-S-BL,cb_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-S-OL,cb_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-S-MA,cb_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-M-BL,cb_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-M-OL,cb_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-M-MA,cb_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-L-BL,cb_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-L-OL,cb_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-L-MA,cb_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XL-BL,cb_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XL-OL,cb_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XL-MA,cb_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XXL-BL,cb_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XXL-OL,cb_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-XXL-MA,cb_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-G-BL,cb_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-G-OL,cb_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-G-MA,cb_color,MA,
+CB-S-BL,,"Crate Bed",simple,,,base,BL,S,,,,,"South Africa","2014-10-21 19:34:02",,,,,"Crate Bed",,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed-S-BL",,,,"Product Info Column",,0.0000,0,"Crate Bed",no_selection,,,,,1,0,no_selection,,"2014-10-25 13:26:58",crate-bed-s-bl,crate-bed-s-bl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-S-OL,,"Crate Bed",simple,,,base,OL,S,,,,,"South Africa","2014-10-21 19:34:13",,,,,"Crate Bed",,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed-S-OL",,,,"Product Info Column",,0.0000,0,"Crate Bed",no_selection,,,,,1,0,no_selection,,"2014-10-25 13:26:58",crate-bed-s-ol,crate-bed-s-ol.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-S-MA,,"Crate Bed",simple,,,base,MA,S,,,,,"South Africa","2014-10-21 19:34:24",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-S-MA",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-s-ma,crate-bed-s-ma.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-M-BL,,"Crate Bed",simple,,,base,BL,M,,,,,"South Africa","2014-10-21 19:37:48",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-M-BL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-m-bl,crate-bed-m-bl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-M-OL,,"Crate Bed",simple,,,base,OL,M,,,,,"South Africa","2014-10-21 19:38:10",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-M-OL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-m-ol,crate-bed-m-ol.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-M-MA,,"Crate Bed",simple,,,base,MA,M,,,,,"South Africa","2014-10-21 19:38:17",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-M-MA",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-m-ma,crate-bed-m-ma.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-L-BL,,"Crate Bed",simple,,,base,BL,L,,,,,"South Africa","2014-10-21 19:38:54",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-L-BL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-l-bl,crate-bed-l-bl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-L-OL,,"Crate Bed",simple,,,base,OL,L,,,,,"South Africa","2014-10-21 19:39:05",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-L-OL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-l-ol,crate-bed-l-ol.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-L-MA,,"Crate Bed",simple,,,base,MA,L,,,,,"South Africa","2014-10-21 19:39:10",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-L-MA",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-l-ma,crate-bed-l-ma.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-XL-BL,,"Crate Bed",simple,,,base,BL,XL,,,,,"South Africa","2014-10-21 19:40:06",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-XL-BL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-xl-bl,crate-bed-xl-bl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-XL-OL,,"Crate Bed",simple,,,base,OL,XL,,,,,"South Africa","2014-10-21 19:40:13",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-XL-OL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-xl-ol,crate-bed-xl-ol.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-XL-MA,,"Crate Bed",simple,,,base,MA,XL,,,,,"South Africa","2014-10-21 19:40:23",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-XL-MA",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-xl-ma,crate-bed-xl-ma.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-XXL-BL,,"Crate Bed",simple,,,base,BL,XXL,,,,,"South Africa","2014-10-21 19:40:47",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-XXL-BL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-xxl-bl,crate-bed-xxl-bl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-XXL-OL,,"Crate Bed",simple,,,base,OL,XXL,,,,,"South Africa","2014-10-21 19:40:59",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-XXL-OL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-xxl-ol,crate-bed-xxl-ol.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-XXL-MA,,"Crate Bed",simple,,,base,MA,XXL,,,,,"South Africa","2014-10-21 19:41:05",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-XXL-MA",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-xxl-ma,crate-bed-xxl-ma.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-G-BL,,"Crate Bed",simple,,,base,BL,G,,,,,"South Africa","2014-10-21 19:41:35",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-G-BL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-g-bl,crate-bed-g-bl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-G-OL,,"Crate Bed",simple,,,base,OL,G,,,,,"South Africa","2014-10-21 19:41:40",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-G-OL",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-g-ol,crate-bed-g-ol.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-G-MA,,"Crate Bed",simple,,,base,MA,G,,,,,"South Africa","2014-10-21 19:41:50",,,,,"Crate Bed",,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed-G-MA",,,,"Product Info Column",,0.0000,0,"Crate Bed",,,,,,1,0,,,"2014-10-25 13:26:58",crate-bed-g-ma,crate-bed-g-ma.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L,,Lounger,configurable,,"Axels Products",base,,,,,,,"South Africa","2014-10-25 09:51:58",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size (mm)</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>820</td><td>600</td><td>100 + 75 (175)</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>1000</td><td>800</td><td>100 + 75 (175)</td></tr>
+<tr><td><h5>Large</h5></td><td>1300</td><td>1100</td><td>125 + 100 (225)</td></tr>
+</tbody>
+</table></div>",,,,1,/l/o/lounger_front_black.jpg,,,,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,650.0000,1,"<h5>Our most popular and stylish dog bed for a good reason:</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Bolster sides offers support for extra comfort</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Bolster sides are covered with super durable waterproof polyester.</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Base and bolster filled with high density foam.</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Base and bolster cover is removable and washable.</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Base has a non slip bottom to stop your pet from taking over the lounge :)</li>
+</ul>",/l/o/lounger_front_black.jpg,,,,,1,0,/l/o/lounger_front_black.jpg,,"2014-11-09 11:56:15",lounger,lounger.html,4,,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,88,/l/o/lounger_front_black.jpg,,1,0,L-M-BL,l_size,M,200.0000
+,,,,"Dog Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/l/o/lounger_front_maroon.jpg,,2,0,L-M-OL,l_size,M,200.0000
+,,,,"Dog Beds/Lounger Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/l/o/lounger_front_olive.jpg,,3,0,L-M-MA,l_size,M,200.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-L-BL,l_size,L,700.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-L-OL,l_size,L,700.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-L-MA,l_size,L,700.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-S-BL,l_size,S,0.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-S-OL,l_size,S,0.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-S-MA,l_size,S,0.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-M-BL,l_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-M-OL,l_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-M-MA,l_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-L-BL,l_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-L-OL,l_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-L-MA,l_color,MA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-S-BL,l_color,BL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-S-OL,l_color,OL,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L-S-MA,l_color,MA,
+L-M-BL,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:30:41",,,,,Long,,,,0,no_selection,,BL,M,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-75,lounger-75.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-M-OL,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:30:41",,,,,Long,,,,0,no_selection,,OL,M,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-76,lounger-76.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-M-MA,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:30:41",,,,,Long,,,,0,no_selection,,MA,M,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-77,lounger-77.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-L-BL,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:30:41",,,,,Long,,,,0,no_selection,,BL,L,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-78,lounger-78.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-L-OL,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:30:41",,,,,Long,,,,0,no_selection,,OL,L,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-79,lounger-79.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-L-MA,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:30:41",,,,,Long,,,,0,no_selection,,MA,L,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-80,lounger-80.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-S-BL,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:54:42",,,,,Long,,,,0,no_selection,,BL,S,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-81,lounger-81.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-S-OL,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:54:42",,,,,Long,,,,0,no_selection,,OL,S,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-82,lounger-82.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+L-S-MA,,Lounger,simple,,,base,,,,,,,"South Africa","2014-10-25 10:54:42",,,,,Long,,,,0,no_selection,,MA,S,,,,,,,,"Use config","Use config",Lounger,,,,"Product Info Column",,0.0000,0,Short,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:37:03",lounger-83,lounger-83.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,0,0.0000,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-P,,"Crate Bed",configurable,,"Axels Products",base,BL,,,,,,"South Africa","2014-10-25 11:35:41",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>720</td><td>500</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>760</td><td>620</td><td>100</td></tr>
+<tr><td><h5>Large</h5></td><td>900</td><td>700</td><td>100</td></tr>
+<tr class=""alt""><td><h5>X-Large</h5></td><td>1000</td><td>800</td><td>100</td></tr>
+<tr><td><h5>XX-Large</h5></td><td>1100</td><td>900</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Giant</h5></td><td>1200</td><td>1000</td><td>100</td></tr>
+</tbody>
+</table></div>",,,,1,/c/r/crate_bed_axel_hugo.jpg,,,,,,,,,,,"Use config","Use config","Crate Bed Printed",,,,"Product Info Column",,390.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/c/r/crate_bed_axel_hugo.jpg,,,,,1,0,/c/r/crate_bed_axel_hugo.jpg,,"2014-11-08 14:28:49",crate-bed-printed,crate-bed-printed.html,4,,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_axel_hugo.jpg,,1,0,CB-P-S,cb_size,S,
+,,,,"Dog Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_axel_giant.jpg,,2,0,CB-P-M,cb_size,M,120.0000
+,,,,"Dog Beds/Crate Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_hugo_large.jpg,,3,0,CB-P-L,cb_size,L,250.0000
+,,,,"Dog Beds/Crate Beds/Printed","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_alex.jpg,,4,0,CB-P-XL,cb_size,XL,400.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_rottweiler_labradore.jpg,,5,0,CB-P-XXL,cb_size,XXL,560.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_cover_hugo.jpg,"Crate bed fits in crate",6,0,CB-P-G,cb_size,G,760.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_axel_giant_2.jpg,,7,0,,,,
+CB-P-S,,"Crate Bed",simple,,,base,BL,S,,,,,"South Africa","2014-10-25 11:35:59",,,,,Short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed Printed-S",,,,"Product Info Column",,0.0000,0,Long,,,,,,1,0,,,"2014-10-25 13:40:00",crate-bed-printed-s,crate-bed-printed-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-P-M,,"Crate Bed",simple,,,base,BL,M,,,,,"South Africa","2014-10-25 11:36:24",,,,,Short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed Printed-M",,,,"Product Info Column",,0.0000,0,Long,,,,,,1,0,,,"2014-10-25 13:40:00",crate-bed-printed-m,crate-bed-printed-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-P-L,,"Crate Bed",simple,,,base,BL,L,,,,,"South Africa","2014-10-25 11:36:42",,,,,Short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed Printed-L",,,,"Product Info Column",,0.0000,0,Long,,,,,,1,0,,,"2014-10-25 13:40:00",crate-bed-printed-l,crate-bed-printed-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-P-XL,,"Crate Bed",simple,,,base,BL,XL,,,,,"South Africa","2014-10-25 11:36:51",,,,,Short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed Printed-XL",,,,"Product Info Column",,0.0000,0,Long,,,,,,1,0,,,"2014-10-25 13:40:00",crate-bed-printed-xl,crate-bed-printed-xl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-P-XXL,,"Crate Bed",simple,,,base,BL,XXL,,,,,"South Africa","2014-10-25 11:36:56",,,,,Short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed Printed-XXL",,,,"Product Info Column",,0.0000,0,Long,,,,,,1,0,,,"2014-10-25 13:40:00",crate-bed-printed-xxl,crate-bed-printed-xxl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CB-P-G,,"Crate Bed",simple,,,base,BL,G,,,,,"South Africa","2014-10-25 11:37:00",,,,,Short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Bed Printed-G",,,,"Product Info Column",,0.0000,0,Long,,,,,,1,0,,,"2014-10-25 13:40:00",crate-bed-printed-g,crate-bed-printed-g.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CBC-PVC,,"Crate Bed",configurable,,"Axels Products",base,BL,,,,,,"South Africa","2014-10-25 11:55:40",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>720</td><td>500</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>760</td><td>620</td><td>100</td></tr>
+<tr><td><h5>Large</h5></td><td>900</td><td>700</td><td>100</td></tr>
+<tr class=""alt""><td><h5>X-Large</h5></td><td>1000</td><td>800</td><td>100</td></tr>
+<tr><td><h5>XX-Large</h5></td><td>1100</td><td>900</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Giant</h5></td><td>1200</td><td>1000</td><td>100</td></tr>
+</tbody>
+</table></div>",,,,1,/c/r/crate_bed_pvc_cover.jpg,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC",,,,"Product Info Column",,120.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>
+",/c/r/crate_bed_pvc_cover.jpg,,,,,1,0,/c/r/crate_bed_pvc_cover.jpg,,"2014-11-08 14:20:50",crate-bed-cover-pvc-cover,crate-bed-cover-pvc-cover.html,4,,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_pvc_cover.jpg,,1,0,CBC-PVC-S,cb_size,S,
+,,,,"Bed Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_pvc_cover_2.jpg,,2,0,CBC-PVC-M,cb_size,M,30.0000
+,,,,"Bed Covers/Crate Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_bed_pvc_cover_3.jpg,,3,0,CBC-PVC-L,cb_size,L,40.0000
+,,,,"Bed Covers/Crate Beds/Protective Clear PVC","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CBC-PVC-XL,cb_size,XL,50.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CBC-PVC-XXL,cb_size,XXL,70.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CBC-PVC-G,cb_size,G,90.0000
+CBC-PVC-S,,"Crate Bed",simple,,,base,BL,S,,,,,"South Africa","2014-10-25 11:56:09",,,,,short,,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC-S",,,,"Product Info Column",,0.0000,0,long,no_selection,,,,,1,0,no_selection,,"2014-10-26 10:50:54",crate-bed-cover-pvc-cover-s,crate-bed-cover-pvc-cover-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CBC-PVC-M,,"Crate Bed",simple,,,base,BL,M,,,,,"South Africa","2014-10-25 11:57:37",,,,,short,,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC-M",,,,"Product Info Column",,0.0000,0,long,no_selection,,,,,1,0,no_selection,,"2014-10-26 10:51:06",crate-bed-cover-pvc-cover-m,crate-bed-cover-pvc-cover-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CBC-PVC-L,,"Crate Bed",simple,,,base,BL,L,,,,,"South Africa","2014-10-25 11:58:21",,,,,short,,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC-L",,,,"Product Info Column",,0.0000,0,long,no_selection,,,,,1,0,no_selection,,"2014-10-26 10:51:18",crate-bed-cover-pvc-cover-l,crate-bed-cover-pvc-cover-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CBC-PVC-XL,,"Crate Bed",simple,,,base,BL,XL,,,,,"South Africa","2014-10-25 11:58:40",,,,,short,,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC-XL",,,,"Product Info Column",,0.0000,0,long,no_selection,,,,,1,0,no_selection,,"2014-10-26 10:51:31",crate-bed-cover-pvc-cover-xl,crate-bed-cover-pvc-cover-xl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CBC-PVC-XXL,,"Crate Bed",simple,,,base,BL,XXL,,,,,"South Africa","2014-10-25 11:58:46",,,,,short,,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC-XXL",,,,"Product Info Column",,0.0000,0,long,no_selection,,,,,1,0,no_selection,,"2014-10-26 10:51:41",crate-bed-cover-pvc-cover-xxl,crate-bed-cover-pvc-cover-xxl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CBC-PVC-G,,"Crate Bed",simple,"Dog Beds/Replacement Covers","Axels Products",base,BL,G,,,,,"South Africa","2014-10-25 11:59:04",,,,,short,,,,0,no_selection,,,,,,,,,,,"Use config","Use config","Crate Bed Cover - Protective Clear PVC-G",,,,"Product Info Column",,0.0000,0,long,no_selection,,,,,1,0,no_selection,,"2014-10-26 11:39:02",crate-bed-cover-pvc-cover-g,crate-bed-cover-pvc-cover-g.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC,,"Crate Cover",configurable,,"Axels Products",base,,,BL,,,,"South Africa","2014-10-25 12:06:49",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>720</td><td>500</td><td>540</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>760</td><td>620</td><td>600</td></tr>
+<tr><td><h5>Large</h5></td><td>900</td><td>700</td><td>750</td></tr>
+<tr class=""alt""><td><h5>X-Large</h5></td><td>1000</td><td>800</td><td>830</td></tr>
+<tr><td><h5>XX-Large</h5></td><td>1100</td><td>900</td><td>900</td></tr>
+<tr class=""alt""><td><h5>Giant</h5></td><td>1200</td><td>1000</td><td>1000</td></tr>
+</tbody>
+</table></div>",,,,1,/c/r/crate_cover.jpg,,,,,,,,,,,"Use config","Use config","Crate Cover",,,,"Product Info Column",,415.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/c/r/crate_cover.jpg,,,,,1,0,/c/r/crate_cover.jpg,,"2014-11-09 10:42:36",crate-cover,crate-cover.html,4,,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,CB,0,,,,,,,,,,,88,/c/r/crate_cover.jpg,,1,0,CC-S,cc_size,S,
+,,,,"Crate Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-P,0,,,,,,,,,,,88,/c/r/crate_cover_packaged.jpg,,4,0,CC-M,cc_size,M,20.0000
+,,,,"Crate Covers/Standard","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CC-P,0,,,,,,,,,,,88,/c/r/crate_cover_1.jpg,,3,0,CC-L,cc_size,L,190.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_cover_2.jpg,,2,0,CC-XL,cc_size,XL,325.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CC-XXL,cc_size,XXL,360.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CC-G,cc_size,G,425.0000
+CC-S,,"Crate Cover",simple,,,base,,,BL,S,,,"South Africa","2014-10-25 12:07:05",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover-S",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:08:27",crate-cover-s,crate-cover-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-M,,"Crate Cover",simple,,,base,,,BL,M,,,"South Africa","2014-10-25 12:07:10",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover-M",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:08:27",crate-cover-m,crate-cover-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-L,,"Crate Cover",simple,,,base,,,BL,L,,,"South Africa","2014-10-25 12:07:14",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover-L",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:08:28",crate-cover-l,crate-cover-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-XL,,"Crate Cover",simple,,,base,,,BL,XL,,,"South Africa","2014-10-25 12:07:20",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover-XL",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:08:28",crate-cover-xl,crate-cover-xl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-XXL,,"Crate Cover",simple,,,base,,,BL,XXL,,,"South Africa","2014-10-25 12:07:23",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover-XXL",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:08:28",crate-cover-xxl,crate-cover-xxl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-G,,"Crate Cover",simple,,,base,,,BL,G,,,"South Africa","2014-10-25 12:07:28",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover-G",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:08:28",crate-cover-g,crate-cover-g.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-P,,"Crate Cover",configurable,,"Axels Products",base,,,BL,,,,"South Africa","2014-10-25 12:24:56",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>720</td><td>500</td><td>540</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>760</td><td>620</td><td>600</td></tr>
+<tr><td><h5>Large</h5></td><td>900</td><td>700</td><td>750</td></tr>
+<tr class=""alt""><td><h5>X-Large</h5></td><td>1000</td><td>800</td><td>830</td></tr>
+<tr><td><h5>XX-Large</h5></td><td>1100</td><td>900</td><td>900</td></tr>
+<tr class=""alt""><td><h5>Giant</h5></td><td>1200</td><td>1000</td><td>1000</td></tr>
+</tbody>
+</table></div>",,,,1,/c/r/crate_cover_personalized.jpg,,,,,,,,,,,"Use config","Use config","Crate Cover Printed",,,,"Product Info Column",,510.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/c/r/crate_cover_personalized.jpg,,,,,1,0,/c/r/crate_cover_personalized.jpg,,"2014-11-09 10:47:20",crate-cover-printed,crate-cover-printed.html,4,,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,CB,0,,,,,,,,,,,88,/c/r/crate_cover_personalized.jpg,,1,0,CC-P-S,cc_size,S,
+,,,,"Crate Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CB-P,0,,,,,,,,,,,88,/c/r/crate_cover_1_1.jpg,,2,0,CC-P-M,cc_size,M,40.0000
+,,,,"Crate Covers/Printed","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/c/r/crate_cover_packaged_1.jpg,,3,0,CC-P-L,cc_size,L,260.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CC-P-XL,cc_size,XL,440.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CC-P-XXL,cc_size,XXL,530.0000
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CC-P-G,cc_size,G,650.0000
+CC-P-S,,"Crate Cover",simple,,,base,,,BL,S,,,"South Africa","2014-10-25 12:25:07",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover Printed-S",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:26:14",crate-cover-printed-s,crate-cover-printed-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-P-M,,"Crate Cover",simple,,,base,,,BL,M,,,"South Africa","2014-10-25 12:25:15",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover Printed-M",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:26:14",crate-cover-printed-m,crate-cover-printed-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-P-L,,"Crate Cover",simple,,,base,,,BL,L,,,"South Africa","2014-10-25 12:25:18",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover Printed-L",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:26:14",crate-cover-printed-l,crate-cover-printed-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-P-XL,,"Crate Cover",simple,,,base,,,BL,XL,,,"South Africa","2014-10-25 12:25:21",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover Printed-XL",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:26:15",crate-cover-printed-xl,crate-cover-printed-xl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-P-XXL,,"Crate Cover",simple,,,base,,,BL,XXL,,,"South Africa","2014-10-25 12:25:25",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover Printed-XXL",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:26:15",crate-cover-printed-xxl,crate-cover-printed-xxl.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+CC-P-G,,"Crate Cover",simple,,,base,,,BL,G,,,"South Africa","2014-10-25 12:25:28",,,,,short,,,,0,,,,,,,,,,,,"Use config","Use config","Crate Cover Printed-G",,,,"Product Info Column",,0.0000,0,long,,,,,,1,0,,,"2014-10-25 14:26:15",crate-cover-printed-g,crate-cover-printed-g.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OB,,"Ortho Bed",configurable,,"Axels Products",base,,,,,,,"South Africa","2014-10-26 08:56:42",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>680</td><td>470</td><td>30 + 70 (100)</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>1000</td><td>730</td><td>30 + 70 (100)</td></tr>
+<tr><td><h5>Large</h5></td><td>1300</td><td>950</td><td>50 + 100 (150)</td></tr>
+</tbody>
+</table></div>",,,,1,/o/r/ortho_bed_standard_1.jpg,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim",,,,"Product Info Column",,275.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/o/r/ortho_bed_standard_1.jpg,,,,,1,0,/o/r/ortho_bed_standard_1.jpg,,"2014-11-09 10:44:22",orthopedic-bed-standard-denim,orthopedic-bed-standard-denim.html,4,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,1.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,OBC,0,,,OB-SS,0,,,,,,,,,,,88,/o/r/ortho_bed_standard_1.jpg,,1,0,OB-S,ob_size,S,
+,,,,"Dog Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OBC-SS,0,,,,,,,,,,,88,/o/r/ortho_bed_waterproof_inner_zip.jpg,,2,0,OB-M,ob_size,M,400.0000
+,,,,"Dog Beds/Orthopedic Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_standard_replacement_cover.jpg,,3,0,OB-L,ob_size,L,1150.0000
+,,,,"Dog Beds/Orthopedic Beds/Standard Denim","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OB-S,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 08:56:52",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim-S",,,S,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-standard-denim-s,orthopedic-bed-standard-denim-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OB-M,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 08:57:18",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim-M",,,M,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-standard-denim-m,orthopedic-bed-standard-denim-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OB-L,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 08:57:28",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim-L",,,L,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-standard-denim-l,orthopedic-bed-standard-denim-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OB-SS,,"Ortho Bed",configurable,,"Axels Products",base,,,,,,,"South Africa","2014-10-26 09:08:38",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>680</td><td>470</td><td>30 + 70 (100)</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>1000</td><td>730</td><td>30 + 70 (100)</td></tr>
+<tr><td><h5>Large</h5></td><td>1300</td><td>950</td><td>50 + 100 (150)</td></tr>
+</tbody>
+</table></div>",,,,1,/o/r/ortho_bed_sheepskin_1.jpg,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top",,,,"Product Info Column",,330.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/o/r/ortho_bed_sheepskin_1.jpg,,,,,1,0,/o/r/ortho_bed_sheepskin_1.jpg,,"2014-11-08 14:21:27",orthopedic-bed-shepherds-fleece-top,orthopedic-bed-shepherds-fleece-top.html,4,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,OBC-SS,0,,,,,,,,,,,,,,,88,/o/r/ortho_bed_sheepskin_1.jpg,,1,0,OB-SS-S,ob_size,S,
+,,,,"Dog Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_shepard_fleece_replacement_cover_2.jpg,,2,0,OB-SS-M,ob_size,M,375.0000
+,,,,"Dog Beds/Orthopedic Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_sheepskin_2.jpg,,3,0,OB-SS-L,ob_size,L,1250.0000
+,,,,"Dog Beds/Orthopedic Beds/Shepherd Fleece Top","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_shepard_fleece_replacement_cover.jpg,,4,0,,,,
+OB-SS-S,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:08:49",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top-S",,,S,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-shepherds-fleece-top-s,orthopedic-bed-shepherds-fleece-top-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OB-SS-M,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:09:11",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top-M",,,M,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-shepherds-fleece-top-m,orthopedic-bed-shepherds-fleece-top-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OB-SS-L,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:09:33",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top-L",,,L,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-shepherds-fleece-top-l,orthopedic-bed-shepherds-fleece-top-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC,,"Ortho Bed",configurable,,"Axels Products",base,,,,,,,"South Africa","2014-10-26 09:20:54",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>680</td><td>470</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>1000</td><td>730</td><td>100</td></tr>
+<tr><td><h5>Large</h5></td><td>1300</td><td>950</td><td>150</td></tr>
+</tbody>
+</table></div>",,,,1,/o/r/ortho_bed_standard_replacement_cover_1.jpg,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim - Replacement Cover",,,,"Product Info Column",,60.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/o/r/ortho_bed_standard_replacement_cover_1.jpg,,,,,1,0,/o/r/ortho_bed_standard_replacement_cover_1.jpg,,"2014-11-08 14:21:34",orthopedic-bed-standard-denim-replacement-cover,orthopedic-bed-standard-denim-replacement-cover.html,4,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_standard_replacement_cover_1.jpg,,1,0,OBC-S,ob_size,S,
+,,,,"Bed Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_waterproof_inner_zip_1.jpg,,2,0,OBC-M,ob_size,M,65.0000
+,,,,"Dog Beds/Replacement Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_standard_1_1.jpg,,3,0,OBC-L,ob_size,L,97.0000
+,,,,"Bed Covers/Orthopedic Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"Bed Covers/Orthopedic Beds/Standard Denim","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-S,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:21:06",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim - Replacement Cover-S",,,S,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-standard-denim-replacement-cover-s,orthopedic-bed-standard-denim-replacement-cover-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-M,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:21:27",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim - Replacement Cover-M",,,M,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-standard-denim-replacement-cover-m,orthopedic-bed-standard-denim-replacement-cover-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-L,,"Ortho Bed",simple,"Bed Covers/Orthopedic Beds/Standard Denim","Axels Products",base,,,,,,,"South Africa","2014-10-26 09:21:35",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Standard Denim - Replacement Cover-L",,,L,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:39:55",orthopedic-bed-standard-denim-replacement-cover-l,orthopedic-bed-standard-denim-replacement-cover-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-SS,,"Ortho Bed",configurable,,"Axels Products",base,,,,,,,"South Africa","2014-10-26 09:22:59",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Small</h5></td><td>680</td><td>470</td><td>100</td></tr>
+<tr class=""alt""><td><h5>Medium</h5></td><td>1000</td><td>730</td><td>100</td></tr>
+<tr><td><h5>Large</h5></td><td>1300</td><td>950</td><td>150</td></tr>
+</tbody>
+</table></div>",,,,1,/o/r/ortho_bed_shepard_fleece_replacement_cover_1.jpg,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top - Replacement Cover",,,,"Product Info Column",,106.0000,1,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/o/r/ortho_bed_shepard_fleece_replacement_cover_1.jpg,,,,,1,0,/o/r/ortho_bed_shepard_fleece_replacement_cover_1.jpg,,"2014-11-08 14:21:41",orthopedic-bed-shepherds-fleece-top-replacement-cover,orthopedic-bed-shepherds-fleece-top-replacement-cover.html,4,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,1,,1,0,1,0,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_shepard_fleece_replacement_cover_1.jpg,,1,0,OBC-SS-S,ob_size,S,
+,,,,"Bed Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_shepard_fleece_replacement_cover_2_1.jpg,,2,0,OBC-SS-M,ob_size,M,80.0000
+,,,,"Dog Beds/Replacement Covers","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,/o/r/ortho_bed_sheepskin_1_1.jpg,,3,0,OBC-SS-L,ob_size,L,247.0000
+,,,,"Bed Covers/Orthopedic Beds","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"Bed Covers/Orthopedic Beds/Shepherd Fleece Top","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-SS-S,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:25:18",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top - Replacement Cover-S",,,S,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-shepherds-fleece-top-replacement-cover-s,orthopedic-bed-shepherds-fleece-top-replacement-cover-s.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-SS-M,,"Ortho Bed",simple,,,base,,,,,,,"South Africa","2014-10-26 09:25:36",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top - Replacement Cover-M",,,M,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:36:16",orthopedic-bed-shepherds-fleece-top-replacement-cover-m,orthopedic-bed-shepherds-fleece-top-replacement-cover-m.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+OBC-SS-L,,"Ortho Bed",simple,"Bed Covers/Orthopedic Beds/Shepherd Fleece Top","Axels Products",base,,,,,,,"South Africa","2014-10-26 09:25:47",,,,,"long TODO",,,,0,,,,,,,,,,,,"Use config","Use config","Orthopedic Bed - Shepherds Fleece Top - Replacement Cover-L",,,L,"Product Info Column",,0.0000,0,"short TODO",,,,,,1,0,,,"2014-10-26 11:40:32",orthopedic-bed-shepherds-fleece-top-replacement-cover-l,orthopedic-bed-shepherds-fleece-top-replacement-cover-l.html,1,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,
+PS,,Default,simple,,"Axels Products",base,,,,,,,"South Africa","2014-10-26 09:34:57",,,,,"<h3>Size Chart</h3>
+<div class=""datagrid""><table>
+<thead><tr><th>Size</th><th>Length (mm)</th><th>Width (mm)</th><th>Height (mm)</th></tr></thead>
+<tbody>
+<tr><td><h5>Large</h5></td><td>600</td><td>400</td><td>470</td></tr>
+</tbody>
+</table></div>
+",,,,0,/p/e/pet_steps.jpg,,,,,,,,,,,"Use config","Use config","Pet Steps",,,,"Product Info Column",,360.0000,0,"<h5>Some Catchy Heading</h5>
+<ul class=""ic-ul"">
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 1</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 2</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 3</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 4</li>
+<li><span class=""ic ic-arrow-right ic-li""></span>Point 5</li>
+</ul>",/p/e/pet_steps.jpg,,,,,1,0,/p/e/pet_steps.jpg,,"2014-11-08 14:21:56",pet-steps,pet-steps-133.html,4,1.0000,0.0000,0.0000,1,0,0,1,1.0000,1,0.0000,1,0,,1,0,1,1,1,0.0000,1,0,0,,,,,,,,,,,,,,,,,88,/p/e/pet_steps.jpg,,1,0,,,,
+,,,,"Pet Steps","Axels Products",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

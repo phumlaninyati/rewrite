@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<config>
+        <menu>
+            <catalog translate="title" module="catalog">
+                <title>Catalog</title>
+                <sort_order>60</sort_order>
+                <children>
+                    <rewrite module="Rewrite">
+                        <title>URL Rewrites</title>
+                        <action>adminhtml/rewrite</action>
+                    </rewrite>
+                </children>                
+            </catalog>
+        </menu>
+        <acl>
+            <resources>
+                <admin>
+                    <children>
+                        <rewrite translate="title" module="Rewrite">
+                            <title>Nomad Rewrite</title>
+                            <sort_order>60</sort_order>
+                            <children>
+                                <rewrite>
+                                    <title>URL Rewrites</title>
+                                </rewrite>
+                            </children>
+                       </rewrite>
+                   </children>
+               </admin>
+           </resources>
+        </acl> 
+    <layout>
+        <updates>
+            <nomad>
+                <file>rewrite.xml</file>
+            </nomad>
+        </updates>
+    </layout>
+</config>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/magento/app/design/adminhtml/default/default/template/nomad/rewrite.phtml</file>
+            <file>file:/C:/wamp/www/magento/app/code/local/Nomad/Rewrite/controllers/adminhtml/RewriteController.php</file>
+            <file>file:/C:/wamp/www/magento/index.php</file>
+            <file>file:/C:/wamp/www/magento/app/design/adminhtml/default/default/layout/nomad/rewrite.xml</file>
+            <file>file:/C:/wamp/www/magento/app/etc/modules/Nomad_Rewrite.xml</file>
+            <file>file:/C:/wamp/www/magento/app/code/local/Nomad/Rewrite/etc/config.xml</file>
+        </group>
+    </open-files>
+</project-private>
